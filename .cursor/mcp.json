@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "gdrive-write": {
+      "command": "node",
+      "args": [
+        "/Users/alguo/Documents/Cursor/Placeholder/servers/gdrive-write/dist/index.js"
+      ],
+      "env": {
+        "GDRIVE_OAUTH_PATH": "/Users/alguo/Documents/Cursor/Placeholder/.secrets/gdrive-client-secret.json",
+        "GDRIVE_CREDENTIALS_PATH": "/Users/alguo/Documents/Cursor/Placeholder/.secrets/gdrive-write-credentials.json",
+        "GDRIVE_SCOPES": "https://www.googleapis.com/auth/drive https://www.googleapis.com/auth/documents https://www.googleapis.com/auth/spreadsheets https://www.googleapis.com/auth/presentations"
+      }
+    }
+  }
+}

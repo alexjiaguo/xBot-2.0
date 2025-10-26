@@ -1,0 +1,15 @@
+{
+  "name": "mcp-gdrive-write",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "mcp-gdrive-write": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc && chmod +x dist/index.js",
+    "dev": "node --enable-source-maps dist/index.js",
+    "auth": "node --enable-source-maps dist/index.js auth"
+  }
+}
+
+
