@@ -12,6 +12,35 @@
 - **Charts**: Recharts
 - **State Management**: React Query (TanStack Query)
 
+## 截图展示
+
+### 控制台概览
+![Dashboard](docs/screenshots/dashboard.png)
+
+### 知识库管理
+![Knowledge](docs/screenshots/knowledge.png)
+
+### 对话管理
+![Conversations](docs/screenshots/conversations.png)
+
+### Prompt 管理
+![Prompts](docs/screenshots/prompts.png)
+
+### Agent 管理
+![Agents](docs/screenshots/agents.png)
+
+### 评测与监控
+![Evaluation](docs/screenshots/evaluation.png)
+
+### 分析报告
+![Analytics](docs/screenshots/analytics.png)
+
+### 权限管理
+![Permissions](docs/screenshots/permissions.png)
+
+### 系统设置
+![Settings](docs/screenshots/settings.png)
+
 ## 功能模块
 
 ### 已实现功能
